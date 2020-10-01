@@ -1,0 +1,71 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Machine_Learning
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Deep Learning ppt
+    output: web, pdf
+
+    folderitems:
+    - title: Lecture 0
+      url: "/pdf/DL1_SI2020_deeplearning_v5.pdf"
+      output: pdf
+      folders: /pdf
+
+    - title: lecture 1
+      url: "/pdf/DL1_SI2020_deeplearning_v5.pdf"
+      output: web, pdf
+      folders: /pdf
+
+    - title: lecture 2
+      url: /DL3-transferLearning.pdf
+      output: web, pdf
+      folders: /pdf
+
+    - title: lecture 3
+      url: /DL4_SI2020_objectdetect_V3.pdf
+      output: web, pdf
+      folders: /pdf
+
+    - title: lecture 4
+      url: /DL5-DLArchitectures.pdf
+      output: web, pdf
+      folders: /pdf
+
+
+  - title: Another folder for ML
+    output: web, pdf
+
+    folderitems:
+    - title: Sample 4
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Sample 5
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: Sample 6
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Sample 7
+      url: /p1_sample7.html
+      output: web, pdf

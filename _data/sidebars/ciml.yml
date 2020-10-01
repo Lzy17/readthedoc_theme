@@ -1,0 +1,231 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: CIML
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Big Data
+    output: web, pdf
+    folderitems:
+
+    - title: Big Data Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Big Data Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Big Data Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: Big Data Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Big Data Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+
+  - title: CI
+    output: web, pdf
+    folderitems:
+
+    - title: CI Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: CI Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: CI Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: CI Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: CI Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+
+
+
+  - title: ciml_literacy
+    output: web, pdf
+    folderitems:
+
+    - title: ciml_literacy Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: ciml_literacy Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: ciml_literacy Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: ciml_literacy Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: ciml_literacy Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+
+  - title: Computational Thinking
+    output: web, pdf
+    folderitems:
+
+    - title: Computational Thinking  Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Computational Thinking  Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Computational Thinking Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: Computational Thinking Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Computational Thinking Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: DSC
+    output: web, pdf
+    folderitems:
+
+    - title: DSC Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: DSC Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: DSC Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: DSC Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: DSC Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: DSD
+    output: web, pdf
+    folderitems:
+
+    - title: DSD Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: DSD Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: DSD Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: DSD Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: DSD Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+
+
+  - title: HPC Ecosystem
+    output: web, pdf
+    folderitems:
+
+    - title: HPC Ecosystem Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: HPC Ecosystem Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: HPC Ecosystem Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: HPC Ecosystem Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: HPC Ecosystem Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: Interdiscipline Communication
+    output: web, pdf
+    folderitems:
+
+    - title: Interdiscipline Communication Folder 1
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Interdiscipline Communication Folder 2
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Interdiscipline Communication Folder 3
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: Interdiscipline Communication Folder 4
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Interdiscipline Communication Folder 5
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: Machine Learning
+    output: web, pdf
+    folderitems:

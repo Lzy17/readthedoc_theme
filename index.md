@@ -5,7 +5,14 @@ tags: [getting_started]
 sidebar: ciml
 permalink: index.html
 summary: Could be a about page or a guidance on how to use the website.
+layout: img_map
+
 ---
+
+
+
+
+
 something here=
 ## 11111
 something here=
